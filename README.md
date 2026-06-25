@@ -6,4 +6,5 @@
 cmath and pthread are also required but these should be installed already.
 
 **Install**
+
 Run `sudo ./install.sh`
